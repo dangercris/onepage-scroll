@@ -1,0 +1,15 @@
+{
+  "name": "onepage-scroll",
+  "version": "1.3.1",
+  "main": "jquery.onepage-scroll.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangercris/onepage-scroll.git"
+  },
+  "keywords": [
+    "jquery",
+    "scroll",
+    "dial"
+  ],
+  "author": "Pete R"
+}
